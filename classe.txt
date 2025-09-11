@@ -1,4 +1,7 @@
 PC      Nom              Cognoms                    Població                  Estudis Anteriors            Qualitat Positiva
 -----------------------------------------------------------------------------------------------------------------------------
 00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu
-31      Alejandro       Garrido Reipricht           Alcudia de Crespins       Esudiant
+31      Alejandro       Garrido Reipricht           Alcudia de Crespins       Esudiant                     Pacient
+25      Iker            Alarcón Esteve              Rotglà i Corberà          SMX                          Dedicat
+26      Cesar           Oltra Part                  Beniganim                 Grau mitja SMX               Persistent
+
