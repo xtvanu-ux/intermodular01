@@ -1,3 +1,3 @@
 PC      Nom              Cognoms                    Població                  Estudis Anteriors            Qualitat Positiva
 -----------------------------------------------------------------------------------------------------------------------------
-00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu
+00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu, Treballador
