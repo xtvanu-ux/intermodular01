@@ -2,3 +2,4 @@ PC      Nom              Cognoms                    Població                  E
 -----------------------------------------------------------------------------------------------------------------------------
 00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu
 25      Iker            Alarcón Esteve              Rotglà i Corberà          SMX                          Dedicat
+26      Cesar           Oltra Part                  Beniganim                 Grau mitja SMX               Persistent
