@@ -7,3 +7,4 @@ PC      Nom              Cognoms                    Població                  E
 31      Alejandro       Garrido Reipricht           Alcudia de Crespins       Esudiant                     Pacient
 32      Julio Alberto   Castellón Hernandez         Alzira                    SMX                          Generoso
 43      Marc            Meri Navarro                Albaida                   SMX                          Facilitat d'aprenentatge
+46      Neil            Penades Galan               Albaida                   batxiller                    Constant
