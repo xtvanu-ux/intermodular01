@@ -1,3 +1,4 @@
 PC      Nom              Cognoms                    Població                  Estudis Anteriors            Qualitat Positiva
 -----------------------------------------------------------------------------------------------------------------------------
 00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu
+11      Eleazar         Lopez Mahiques              Barxeta                   Tecnic Informatic            Responsable
