@@ -1,6 +1,7 @@
 PC      Nom              Cognoms                    Població                  Estudis Anteriors            Qualitat Positiva
 -----------------------------------------------------------------------------------------------------------------------------
 00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu
+11      Eleazar         Lopez Mahiques              Barxeta                   Tecnic Informatic            Responsable
 13      Carlos          Valls Mulet                 Xàtiva                    SMX                          Treballaor (depen del dia)
 25      Iker            Alarcón Esteve              Rotglà i Corberà          SMX                          Dedicat
 26      Cesar           Oltra Part                  Beniganim                 Grau mitja SMX               Persistent
